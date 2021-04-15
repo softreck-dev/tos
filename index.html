@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>jLoads - JavaScript media loader and router </title>
+
+    <link rel="stylesheet" href="reveal.css">
+    <link rel="stylesheet" href="//static.webslides.pl/dist/theme/white.css" id="theme">
+
+    <link rel="stylesheet" href="//static.webslides.pl/plugin/highlight/monokai.css">
+
+    <style>
+
+        @font-face {
+            font-family: 'Dosis';
+            /*src: url('myfont.woff') format('woff'), !* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ *!*/
+            url('//static.webslides.pl/font/Dosis-Regular.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+        }
+
+        body,
+        body .reveal h1,
+        body .reveal h2,
+        body .reveal h3,
+        body .reveal h4,
+        body .reveal h5,
+        body .reveal h6,
+        h1,
+        h2,
+        h3,
+        p,
+        li,
+        a {
+            font-family: 'Dosis', sans-serif;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="reveal">
+
+    <div class="slides">
+
+
+        <!-- Use external markdown resource, separate slides by three newlines; vertical slides by two newlines -->
+        <section data-markdown="README.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+
+
+        <section data-markdown>
+            <script type="text/template">
+                <!-- .slide: data-background="#000000" -->
+                ![logo.jloads.com](https://logo.jloads.com/6/cover.png)
+<!--                ![logo.jloads.com](https://logo.jloads.com/jloads_logo.png)-->
+
+            </script>
+        </section>
+
+
+</div>
+</div>
+
+<script src="//static.webslides.pl/dist/reveal.js"></script>
+<script src="//static.webslides.pl/plugin/markdown/markdown.js"></script>
+<script src="//static.webslides.pl/plugin/highlight/highlight.js"></script>
+<script src="//static.webslides.pl/plugin/notes/notes.js"></script>
+
+<script>
+
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+    });
+
+</script>
+
+</body>
+</html>
