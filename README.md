@@ -241,3 +241,7 @@ c) You may not use Logos in any manner that represents or implies any affiliatio
 d) You must comply with the further requirements specified in the Softreck [Brand Guidelines](https://www.softreck.com/company/brand/).
 
 Softreck reserves the right to determine what constitutes improper or inappropriate use of Softreck Marks and Logos, and you agree to correct improper/inappropriate use of Softreck Marks and Logos, or to cease use of the same, upon notification from Softreck.
+
+---
+
+[edit](https://github.com/softreck/tos)
