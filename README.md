@@ -3,6 +3,7 @@
 + [Terms of Use - Softreck - tos.softreck.dev](https://tos.softreck.dev)
 + [Terms of Use - Softreck - github](https://softreck.github.io/ToS/)
   
+
 ## Website Terms of Use
 
 **Version 0.1, last updated: 15.04.2021**
