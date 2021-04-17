@@ -40,13 +40,13 @@ f) You will not remotely harvest or otherwise collect information about others, 
 
 g) If you choose to post a comment, your user name, city, and any other information that you choose to post will be visible to the public. Softreck is neither responsible nor liable for the privacy of any information that you choose to post to its websites, including in its blogs, or for the accuracy of any information contained in those postings. Any information that you disclose publicly becomes public information. Softreck cannot prevent such information from being used in a manner that may violate these terms, the law, or your personal privacy. This personal data will be stored and processed until the deletion, in each instance, of posted information.
 
-## **International Access**
+## International Access
 
 Website can be accessed from most countries around the world. Website content may contain references to Softreck products, services, documents, promotions, or other resources that are not available in your country. These references do not imply that Softreck intends to make such resources available in your country.
 
 Website is hosted and offered from inside the EU. Softreck makes no claim or representation that Website, or any resources available through it, are appropriate to or made available for locations outside the European Union. If Website or any of the resources it makes available are illegal in your locality, DO NOT USE WEBSITE. If you access Website from a location outside the European Union, you are responsible for compliance with all applicable local laws.
 
-## **Personal Data**
+## Personal Data
 
 In connection with your use of Website, Softreck and its associated companies may process your personal data for the following purposes:
 
@@ -72,23 +72,23 @@ You may also withdraw your consent to the processing of your personal data at an
 
 More detailed information about personal data processing for the aforementioned purposes, and about your rights, can be found in the remainder of these Terms of Use and in the Privacy Policy.
 
-## **IP address and user environment data**
+## IP address and user environment data
 
 Weblogs that may be generated during your use of Website may include information about IP addresses used to access website services, the browser, and/or operating environment, Uniform Resource Locators (URLs) used to access website services, and/or other information. No personal data is kept in logs for more than 30 days.
 
-## **Cookies and Other Tracking Technologies**
+## Cookies and Other Tracking Technologies
 
 We, and our third-party service providers, use cookies and other tracking technologies ("Cookies") on our Website and within our products or services (collectively our "Site"). See below for more information about these technologies.
 
 We use Cookies to identify you when you visit our Site, to deliver our products and services to you, to provide you with services when you browse our Site, and to improve our Site and the services that we provide ("Service Purposes"). With your consent, we may also use Cookies for analytics purposes and for targeted advertising ("Commercial Purposes"). Any personal data collected by these technologies will be stored and processed for no longer than 1 year.
 
-#### **YOUR CONSENT / WITHDRAWING CONSENT**
+#### YOUR CONSENT / WITHDRAWING CONSENT
 
 You acknowledge that the Site will use Cookies as explained above for the Service Purposes. If you provide us with your consent to use Cookies also for Commercial Purposes, then you can withdraw your consent at any time by visiting [www.softreck.com/opt-out/](https://www.softreck.com/opt-out/).
 
 If you do not wish Cookies to be stored on your device in connection with your use of this Site, you must stop using the Site and disable Cookies via your browser settings for the Site or globally (see below). Please note that disabling Cookies will affect the functionality of our Site and may prevent you from being able to access certain features of our Site, products, or services. For further information about deleting or blocking Cookies, please visit: [http://www.aboutcookies.org/how-to-delete-cookies/](http://www.aboutcookies.org/how-to-delete-cookies).
 
-#### **MORE ABOUT THE TECHNOLOGIES WE USE**
+#### MORE ABOUT THE TECHNOLOGIES WE USE
 
 _Cookies._ A cookie is a small file of letters and numbers that we store on your browser or on the hard drive of your computer. Unless you have adjusted your browser’s settings so that it will refuse cookies, our system will issue cookies as soon as you visit our Site. There are two types of cookies:
 
@@ -104,11 +104,11 @@ _Third-party cookies_ are cookies that are set by a domain other than that of th
 
 _Clear GIFs, pixel tags, and other similar technologies._ Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer's hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs (a.k.a. web beacons, web bugs, or pixel tags), in connection with our Website to, among other things, track the activities of Website visitors, help us manage content, and compile statistics about Website usage. We and our third-party service providers also use clear GIFs in HTML emails to our customers, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
 
-#### **HOW TO DELETE AND BLOCK OUR COOKIES**
+#### HOW TO DELETE AND BLOCK OUR COOKIES
 
 You can block Cookies by activating the setting on your browser that allows you to refuse the setting of all or some Cookies. However, if you use your browser settings to block all Cookies (including Cookies that are essential for the Site to work), you may not be able to access all or parts of our Site.
 
-#### **WHAT COOKIES DO WE USE AND WHY?**
+#### WHAT COOKIES DO WE USE AND WHY?
 
 Generally, our Site uses Cookies to distinguish you from other users of our Site. The Cookies used on our Site, regardless of whether they are used for service purposes or commercial purposes, are categorized as follows:
 
@@ -170,15 +170,15 @@ Users in the United States may opt out of many third-party ad networks. For exam
 
 Opting out of one or more of the companies listed on the DAA [Consumer Choice Page](http://www.aboutads.info/choices/) or the NAI [Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) will opt you out from those companies’ delivery of interest-based content or ads to you, but it does not mean you will no longer receive any advertising through our Site or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., context-based ads). Also, note that if your browsers are configured to reject Cookies when you opt out on the DAA or NAI websites, your opt-out may not be effective. Additional information is available on the DAA's website at [www.aboutads.info](http://www.aboutads.info/) and on the NAI's website at [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-#### **DO NOT TRACK**
+#### DO NOT TRACK
 
 Currently, our systems do not recognize browser "do-not-track" requests. You may, however, disable certain tracking by disabling cookies in your browser. However, by doing so we cannot guarantee the correct behavior of the services we provide to you.
 
-#### **LINKS**
+#### LINKS
 
 At times, Softreck websites and/or Softreck software products may contain links to other external (non-Softreck) sites. Softreck is not responsible for the privacy practices or content of such linked websites.
 
-## **Use of Website Content**
+## Use of Website Content
 
 Unless specifically indicated elsewhere on Website, you may view, download, and print Website content subject to the following conditions:
 
@@ -194,7 +194,7 @@ e) You may not distribute, sell, lease, rent, or relicense Website content to ot
 
 f) Softreck reserves the exclusive right to revoke authorization to view, download, print, or otherwise use Website content at any time, and you shall discontinue such use immediately upon notice from Softreck.
 
-## **Uploading Content**
+## Uploading Content
 
 As part of Website’s functionality and within Softreck’ products or services, Softreck may provide you with the option to upload data to Website for further use by Softreck, including in the provision of support to you for Softreck products and services.
 
@@ -206,19 +206,19 @@ b) upload data containing computer viruses, worms, malware, data restricted by l
 
 c) upload any files which could cause harm to Softreck or its Website, customers, facilities, or any equipment that Softreck uses.
 
-## **Use of Software**
+## Use of Software
 
 The software and accompanying documentation that is available for download from Website is the copyrighted and/or patented work of Softreck and/or its suppliers. Use of the software is governed by the terms of the subscription agreement included with such downloaded software. You will not be able to install any software that is accompanied by or subject to a subscription agreement unless you agree to the terms of the subscription agreement.
 
 If no subscription agreement accompanies the software, and no other license governs the use of the software, then use of the software will be governed by these Terms of Use. You agree that you will not decompile, reverse-engineer, or otherwise attempt to discover the source code of the software available on Website, unless a license or applicable law specifically authorizes you to do so.
 
-## **Intellectual Property Rights and Licenses**
+## Intellectual Property Rights and Licenses
 
 Website content, including software and related documentation, as well as the structure of Website, is protected by copyright, trademark, patent, and other intellectual property laws. Unauthorized use of Website content may violate such laws and these Terms of Use.
 
 Except as expressly stated in this document, Softreck and its suppliers do not grant any express or implied rights to use Website content. You agree not to copy, republish, embed, download, transmit, modify, rent, lease, loan, sell, assign, distribute, license, sublicense, reverse engineer, or create derivative works based on Website, and/or its content (including downloaded software or other products), except as expressly authorized in these Terms of Use. Also, you agree not to use any data mining, robots, or similar data harvesting and extraction methods in connection with Website.
 
-## **Liability of Limitation, Disclaimer**
+## Liability of Limitation, Disclaimer
 
 a) THE SITE AND ASSOCIATED FUNCTIONALITIES ARE PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES. USE OF THE SOFTRECK SITE IS AT YOUR OWN RISK, AND SOFTRECK MAKES NO WARRANTY AS TO ITS USE OR PERFORMANCE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SOFTRECK, AS WELL AS ITS SUPPLIERS AND RESELLERS, DISCLAIM ALL WARRANTIES AND CONDITIONS, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH REGARD TO THE SOFTRECK SITE AND THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES.
 
@@ -226,7 +226,7 @@ b) TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL SOFTRECK 
 
 c) OUR TOTAL LIABILITY IN ANY MATTER ARISING OUT OF OR IN RELATION TO THESE TERMS IS LIMITED TO FIVE (5) US DOLLARS. THIS LIMITATION WILL APPLY EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF LIABILITY EXCEEDING SUCH AMOUNT AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
 
-## **Use of Trademarks**
+## Use of Trademarks
 
 The trademarks and logos ("Marks") displayed on the Site are the property of Softreck or third parties. You may not use Marks without the prior written consent of Softreck or (as applicable) the third-party owner of the Marks.
 
@@ -241,6 +241,16 @@ c) You may not use Logos in any manner that represents or implies any affiliatio
 d) You must comply with the further requirements specified in the Softreck [Brand Guidelines](https://www.softreck.com/company/brand/).
 
 Softreck reserves the right to determine what constitutes improper or inappropriate use of Softreck Marks and Logos, and you agree to correct improper/inappropriate use of Softreck Marks and Logos, or to cease use of the same, upon notification from Softreck.
+
+
+## Contacting Us
+
++ Questions about this FAQ? [Contact us](mailto:tos@softreck.dev).
+
+## More Information
+
++ [Privacy Policy at Softreck - pp.softreck.dev](https://pp.softreck.dev)
++ [FAQ - faq.softreck.dev](https://faq.softreck.dev)
 
 ---
 
