@@ -1,10 +1,9 @@
-# ToS
-Website Terms of Use: tos.softreck.dev
+# ToS, Website Terms of Use: tos.softreck.dev
 
-
-[Terms of Use - Softreck](https://tos.softreck.dev)
-
-# Website Terms of Use
++ [Terms of Use - Softreck - tos.softreck.dev](https://tos.softreck.dev)
++ [Terms of Use - Softreck - github](https://softreck.github.io/ToS/)
+  
+## Website Terms of Use
 
 **Version 0.1, last updated: 15.04.2021**
 
@@ -244,4 +243,4 @@ Softreck reserves the right to determine what constitutes improper or inappropri
 
 ---
 
-[edit](https://github.com/softreck/tos)
+[edit source](https://github.com/softreck/ToS/edit/main/README.md), [github project](https://github.com/softreck/tos)
