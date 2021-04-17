@@ -250,6 +250,7 @@ Softreck reserves the right to determine what constitutes improper or inappropri
 ## More Information
 
 + [Privacy Policy at Softreck - pp.softreck.dev](https://pp.softreck.dev)
++ [Softreck.Dev Foundation Code of Conduct - coc.softreck.dev](https://coc.softreck.dev)
 + [FAQ - faq.softreck.dev](https://faq.softreck.dev)
 
 ---
